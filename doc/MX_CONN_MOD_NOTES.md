@@ -15,5 +15,3 @@ Pinout map:
 * Hirose Pin 4 (BLK) - MX Pin 9 (GND)
 
 Hirose pins 1, 5, and 6 should NOT be connected to anything (leave floating)
-
-Do not attach both the MX connector to a keyloader and the Hirose connector to the KFDtool at the same time. It will not damage anything, however, keyload operations may fail.

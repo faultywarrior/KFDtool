@@ -81,7 +81,7 @@ If you have used KFDtool with a radio that is not listed, please get in touch so
 | EF Johnson 5100/ES           | ✅ Tested        | ≥ 1.7.3          | ≥ 1.7.3      | ≥ 6.12.4                |
 | Harris XL                    | ✅ Tested        | ≥ 1.8.7          | ≥ 1.8.7      | Any                     |
 | Harris Unity (XG-100)        | ✅ Tested        | ≥ 1.8.7          | ≥ 1.8.7      | Any                     | [^ch100]
-| Harris XG                    | ❔ Untested      | —                | —            | —                       | [^harrisxg]
+| Harris XG                    | ✅ Tested        | ≥ 1.8.7          | ≥ 1.8.7      | Any                     | [^harrisxg]
 | Kenwood NX                   | ✅ Tested        | ≥ 1.8.7          | ≥ 1.8.7      | Any                     | [^kenwood]
 | Kenwood TK                   | ❔ Untested      | —                | —            | —                       | [^kenwood]
 | Motorola APX (TWI)           | ✅ Tested        | ≥ 1.8.7          | ≥ 1.8.7      | Any                     |
